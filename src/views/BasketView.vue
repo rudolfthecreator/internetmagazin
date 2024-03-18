@@ -73,7 +73,7 @@ const myProducts = computed(() =>
   border-radius: 10px;
 
   img {
-    width: 10%;
+    width: 5vw;
     margin-right: 10px;
   }
 }

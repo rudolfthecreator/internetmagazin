@@ -111,7 +111,7 @@ input {
   padding-left: 10vw;
 
   img {
-    width: 20%;
+    width: 10vw;
     border-radius: 50%;
     float: left;
   }

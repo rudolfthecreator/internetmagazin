@@ -61,7 +61,7 @@ a {
 }
 
 img {
-  height: 50%;
+  width: 2vw;
   border-radius: 50%;
 }
 

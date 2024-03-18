@@ -128,7 +128,7 @@ const computedProducts = computed(() =>
 
   img {
     display: block;
-    height: 50%;
+    width: 8vw;
   }
   .description {
     font-size: 0.8em;
